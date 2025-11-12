@@ -17,7 +17,7 @@ authors = [
   {name = "Ryder Davidson"},
 ]
 version = "1.0.0"
-readme = "README.md"
+readme = "README.rst"
 license = "Apache-2.0"
 license-files = ["LICENSE.txt"]
 keywords = ["documentation", "parser", "psi"]
