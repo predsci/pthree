@@ -11,11 +11,11 @@ documentation projects.
 
 Installation
 ------------
-You can install the package directly from Bitbucket using pip:
+You can install the package directly from PyPI using pip:
 
 .. code-block:: bash
 
-    pip install git+ssh://git@bitbucket.org/predsci/project-parser.git
+    pip install pthree
 
 Examples
 --------
