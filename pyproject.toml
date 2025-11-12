@@ -1,7 +1,14 @@
+# PyProject Configuration
+# =======================
+
+# Build System
+# ------------
 [build-system]
 requires = ["setuptools >= 77.0.3"]
 build-backend = "setuptools.build_meta"
 
+# Project Metadata
+# ----------------
 [project]
 name = "pthree"
 description = "Python project parser used to generate member trees for sphinx autosummary documentation."
@@ -22,3 +29,9 @@ classifiers = [
   "Operating System :: OS Independent",
 ]
 requires-python = ">=3.10"
+
+# Project URLS
+# ------------
+[project.urls]
+homepage = "https://predsci.com/"
+repository = "https://github.com/predsci/pthree"

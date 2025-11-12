@@ -1,11 +1,11 @@
-project-parser
-==============
+pthree: Python Project Parser
+=============================
 
 **A simple project parser for Python.**
 
 This package is designed to be a lightweight, dependency-free tool for parsing project trees using python's
-built-in :mod:`ast`, :mod:`importlib`, and :mod:`inspect` modules. It was originally developed as a series of
-helper functions used to generate ASTs which could be passed to Sphinx's :mod:`sphinx.ext.autosummary` extension;
+built-in ``ast``, ``importlib``, and ``inspect`` modules. It was originally developed as a series of
+helper functions used to generate ASTs which could be passed to Sphinx's ``sphinx.ext.autosummary`` extension;
 I have since extracted it into its own package for easier reuse *viz.* so that it can be injected into other
 documentation projects.
 
