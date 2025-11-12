@@ -16,7 +16,7 @@ authors = [
   {name = "Predictive Science Inc.", email = "webmaster@predsci.com"},
   {name = "Ryder Davidson"},
 ]
-version = "1.0.0"
+version = "1.0.1"
 readme = "README.rst"
 license = "Apache-2.0"
 license-files = ["LICENSE.txt"]
